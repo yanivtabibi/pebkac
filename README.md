@@ -59,7 +59,7 @@ car belongs to user
 There are many ways to do this - feel free to google your options. We want to see:
 
 1. Some kind of schema (e.g. sqldump, JSON)
-2. Example of how the wuery would look
+2. Example of how the query would look
 3. Why is this solution better than some alternative?
 
 
