@@ -1,0 +1,22 @@
+{
+  "name": "pebkac",
+  "version": "1.0.0",
+  "description": "## 1. Deduplication algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n3xtcoder/pebkac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n3xtcoder/pebkac/issues"
+  },
+  "homepage": "https://github.com/n3xtcoder/pebkac#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
